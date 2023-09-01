@@ -509,6 +509,10 @@ nav .close-icon {
     .contato-info .right-side {
         margin-bottom: 30px;
     }
+
+        .contato .container .mapa iframe {
+        width: 100%
+    }
 }
 
 @media(max-width: 500px) {
