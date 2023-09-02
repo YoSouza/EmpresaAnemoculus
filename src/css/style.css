@@ -516,7 +516,7 @@ nav .close-icon {
 
        .sobre .sobre-img img { 
         height: 400px; 
-        width: 350px; 
+        width: 100%; 
  }
 }
 
