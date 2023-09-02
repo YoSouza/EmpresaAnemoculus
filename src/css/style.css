@@ -513,6 +513,11 @@ nav .close-icon {
         .contato .container .mapa iframe {
         width: 100%
     }
+
+       .sobre .sobre-img img { 
+        height: 400px; 
+        width: 350px; 
+ }
 }
 
 @media(max-width: 500px) {
