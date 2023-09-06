@@ -566,6 +566,7 @@ nav .close-icon {
         height: 400px; 
         width: 100%; 
  }
+<<<<<<< HEAD
 
  /*Pagina saiba mais Responsiva*/
   .principal {
@@ -590,6 +591,8 @@ nav .close-icon {
     width: 100%;
     padding: 15px;
   }
+=======
+>>>>>>> a3145fa681e0ce0b706e246f8981ba7f1ce2ed8c
 }
 
 @media(max-width: 500px) {
