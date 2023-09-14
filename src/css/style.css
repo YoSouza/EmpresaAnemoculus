@@ -373,8 +373,7 @@ nav .close-icon {
 .texto-brasil {
     display: flex;
     flex-direction: column;
-    padding: 35px 10px 10px 40px;
-    text-align: center;
+    padding: 35px 35px 10px 40px;
 }
 
 /*Fim Pagina Saiba Mais*/
